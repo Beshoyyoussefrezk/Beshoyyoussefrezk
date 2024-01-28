@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beshoyyoussefrezk&label=Profile%20views&color=0e75b6&style=flat" alt="beshoyyoussefrezk" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m Frontend Developer **React**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
